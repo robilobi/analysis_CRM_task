@@ -1,4 +1,4 @@
-# analysis_CRM_task
+# Analysis of CRM task
 Analysis of speech in noise perception task (CRM, an adaptive matrix-type task where listeners select two key words out of closed sets embedded in noise).
 It computes the SRT based on the last 4 reversals.
 
